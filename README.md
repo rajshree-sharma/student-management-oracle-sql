@@ -67,8 +67,7 @@ Provides a concise report with student name, course, marks, and grade.
 
 ## 🖼 ER Diagram
 
-See [`er-diagram.png`](![Student_management](https://github.com/user-attachments/assets/7749564c-aba8-4198-9765-f8c15b407d62)
-) for entity relationships.
+See [`er-diagram.png`](![Student_management](https://github.com/user-attachments/assets/bc592929-9bd1-49b3-af1e-16292acc87e0)) for entity relationships.
 
 
 
